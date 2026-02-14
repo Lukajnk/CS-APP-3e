@@ -1,0 +1,5 @@
+cnt = 2k + 1 -> final first == last
+
+k ^ k == 0
+
+for (...; first < last; ...

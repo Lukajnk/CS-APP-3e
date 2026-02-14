@@ -1,0 +1,2 @@
+int res = bis( x, y );
+int res = bis( bic( x,  y ), bic( y, x );

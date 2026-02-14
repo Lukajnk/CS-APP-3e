@@ -1,0 +1,21 @@
+Type	                Hex     Binary
+
+X                       0xC3	1100 0011
+X << 3	                0x18	0001 1000
+X >> 2 (logical)        0x30	0011 0000
+X >> 2 (arithmetic)     0xF0	1111 0000
+
+X                       0x75	0111 0101
+X << 3                  0xA8	1010 1000
+X >> 2 (logical)        0x1D	0001 1101
+X >> 2 (arithmetic)     0x1D	0001 1101
+
+X                       0x87	1000 0111
+X << 3                  0x38	0011 1000
+X >> 2 (logical)        0x21	0010 0001
+X >> 2 (arithmetic)     0xE1	1110 0001
+
+X                       0x66	0110 0110
+X << 3                  0x30	0011 0000
+X >> 2 (logical)        0x19	0001 1001
+X >> 2 (arithmetic)     0x19	0001 1001

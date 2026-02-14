@@ -1,0 +1,5 @@
+Step    Operation       *x              *y
+Start                   a               b
+1       *y = *x ^ *y;	a               a^b
+2       *x = *x ^ *y;	a^(a^b) = b     a^b
+3       *y = *x ^ *y;	b               (a^b)^b = a
